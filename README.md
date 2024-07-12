@@ -21,3 +21,9 @@
 ## Week 7 - State Transition Diagrams, Use case testing, Exploratory testing
 
 - Labs: [Unit Testing with JUnit](https://github.com/ttran375/comp311-lab6)
+
+## Week 9 - Black Box Tests II
+
+## Week 10 - Other Black Box Technique
+
+- Labs: [Black Box Tests](https://github.com/ttran375/comp311-lab8)
