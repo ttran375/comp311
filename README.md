@@ -22,8 +22,20 @@
 
 - Labs: [Unit Testing with JUnit](https://github.com/ttran375/comp311-lab6)
 
-## Week 9 - Black Box Tests II
+## Week 8 - Black Box Tests II
 
-## Week 10 - Other Black Box Technique
+## Week 9 - Other Black Box Technique
 
 - Labs: [Black Box Tests](https://github.com/ttran375/comp311-lab8)
+
+## Week 10 - Testem
+
+- Labs: [Tesem](https://github.com/ttran375/comp311-lab9)
+
+## Week 11 - Group Presentation
+
+- Presentations: NodeJS, GitHub, Selenium, PyUnit, Jira
+
+## Week 12 - Group Presentation
+
+- Presentations: Jasmine, Jmeter, TestSigma, Cucumber
