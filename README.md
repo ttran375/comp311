@@ -1,4 +1,4 @@
-# Software Testing & Quality
+# Software Testing and Quality Assurance
 
 ## Week 1 - Introducing Quality Assurance
 
