@@ -39,3 +39,7 @@
 ## Week 12 - Group Presentation
 
 - Presentations: Jasmine, Jmeter, TestSigma, [Cucumber](https://github.com/ttran375/comp311-cucumber-group9)
+
+## Week 13 - Workshop
+
+- Workshop: [BDD With Gherkin and CucumberJS](https://github.com/ttran375/comp311-workshop)
