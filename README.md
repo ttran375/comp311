@@ -42,4 +42,4 @@
 
 ## Week 13 - Workshop
 
-- Workshop: [BDD With Gherkin and CucumberJS](https://github.com/ttran375/comp311-workshop)
+- Workshops: [BDD With Gherkin and CucumberJS](https://github.com/ttran375/comp311-workshop)
